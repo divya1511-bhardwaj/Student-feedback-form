@@ -6,10 +6,10 @@ A full stack web application that allows students to submit their feedback with 
 
 ## 🌐 Tech Stack
 
-- **Frontend:** HTML, CSS (Bootstrap or Tailwind)
+- **Frontend:** HTML, CSS (Bootstrap )
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB (or local JSON file for beginners)
-- **Deployment:** Render (Backend) + Vercel (Frontend)
+
 
 ---
 
